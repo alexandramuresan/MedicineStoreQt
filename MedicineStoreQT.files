@@ -1,0 +1,17 @@
+MedicineStoreQT/GeneratedFiles/Debug/moc_medicinestoreqt.cpp
+MedicineStoreQT/GeneratedFiles/qrc_medicinestoreqt.cpp
+MedicineStoreQT/GeneratedFiles/ui_medicinestoreqt.h
+MedicineStoreQT/Controller.h
+MedicineStoreQT/CustomException.h
+MedicineStoreQT/Export.cpp
+MedicineStoreQT/Export.h
+MedicineStoreQT/main.cpp
+MedicineStoreQT/Medicine.h
+MedicineStoreQT/MedicineGUI.cpp
+MedicineStoreQT/MedicineGUI.h
+MedicineStoreQT/medicinestoreqt.cpp
+MedicineStoreQT/medicinestoreqt.h
+MedicineStoreQT/Recipe.h
+MedicineStoreQT/Repository.cpp
+MedicineStoreQT/Repository.h
+MedicineStoreQT/Undo.h

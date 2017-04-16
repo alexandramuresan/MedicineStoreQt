@@ -1,0 +1,14 @@
+﻿  Moc'ing medicinestoreqt.h...
+  Uic'ing medicinestoreqt.ui...
+  Rcc'ing medicinestoreqt.qrc...
+RCC : warning : No resources in 'C:\Users\toshiba\Documents\Visual Studio 2015\Projects\MedicineStoreQT\MedicineStoreQT\medicinestoreqt.qrc'.
+  
+  BasketCRUD.cpp
+c:\users\toshiba\documents\visual studio 2015\projects\medicinestoreqt\medicinestoreqt\Controller.h(141): warning C4804: '<': unsafe use of type 'bool' in operation
+  moc_medicinestoreqt.cpp
+  MedicineGUI.cpp
+c:\users\toshiba\documents\visual studio 2015\projects\medicinestoreqt\medicinestoreqt\Controller.h(141): warning C4804: '<': unsafe use of type 'bool' in operation
+  medicinestoreqt.cpp
+  Generating Code...
+  qrc_medicinestoreqt.cpp
+  MedicineStoreQT.vcxproj -> C:\Users\toshiba\Documents\Visual Studio 2015\Projects\MedicineStoreQT\Win32\Debug\MedicineStoreQT.exe
